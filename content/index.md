@@ -9,17 +9,11 @@ seo:
 ---
 orientation: horizontal
 ---
-  :::prose-pre{filename="Terminal"}
-  ```bash
-  npx nuxi init -t github:nuxt-ui-pro/docs#v3
-  ```
-  :::
-
 #title
 WhatsBox Documentation
 
 #description
-WhatsBox enable flowless communication on WhatsApp.
+WhatsBox enables flowless communication on WhatsApp.
 
 #links
   :::u-button
@@ -40,8 +34,10 @@ WhatsBox enable flowless communication on WhatsApp.
   to: https://github.com/nuxt-ui-pro/docs/tree/v3
   variant: subtle
   ---
-  Use this template
   :::
+
+#headline
+Powered by Official WhatsApp Business API
 ::
 
 ::u-page-section
