@@ -140,7 +140,9 @@ All-in-one documentation template
 ::u-page-section
   :::u-page-c-t-a
   ---
-  :links: '[{"label":"Use WhatsBox","to":"https://app.whatsbox.io"]'
+  links:
+    - label: Use WhatsBox
+      to: https://app.whatsbox.io
   title: Start with WhatsBox today!
   variant: subtle
   ---
