@@ -28,12 +28,12 @@ WhatsBox enables flowless communication on WhatsApp.
   :::u-button
   ---
   color: neutral
-  icon: i-simple-icons-github
   size: xl
   target: _blank
-  to: https://github.com/nuxt-ui-pro/docs/tree/v3
+  to: https://api.whatsbox.io/docs
   variant: subtle
   ---
+  API Reference
   :::
 
 #headline
