@@ -1,8 +1,10 @@
 ---
 seo:
-  title: Nuxt UI Pro - Docs template.
-  description: Nuxt UI Pro is a collection of premium Vue components built on top
-    of Nuxt UI to create beautiful & responsive Nuxt applications in minutes.
+  title: ""
+  description: ""
+title: WhatsBox Documentation
+description: Engage and convert customers using personalized broadcasts, 1:1
+  conversations, automations, and shared team inbox.
 ---
 
 ::u-page-hero
