@@ -17,7 +17,7 @@ export default defineAppConfig({
     }
   },
   seo: {
-    siteName: 'WhatsBox.io Documentation'
+    siteName: 'WhatsBox Docs'
   },
   header: {
     title: 'WhatsBox Docs',
