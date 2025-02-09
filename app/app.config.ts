@@ -42,6 +42,14 @@ export default defineAppConfig({
       label: 'WebApp',
       to: 'https://app.whatsbox.io',
       target: '_blank'
+    }, {
+      label: 'Blog',
+      to: 'https://www.whatsbox.io/blog/',
+      target: '_blank'
+    }, {
+      label: 'Contact us',
+      to: 'https://www.whatsbox.io/contact-us/',
+      target: '_blank'
     }]
   },
   toc: {
