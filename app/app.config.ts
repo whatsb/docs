@@ -3,7 +3,10 @@ export default defineAppConfig({
     colors: {
       primary: 'green',
       neutral: 'slate'
-    }
+    },
+
+    primary: 'emerald',
+    neutral: 'slate'
   },
   uiPro: {
     footer: {
@@ -14,48 +17,31 @@ export default defineAppConfig({
     }
   },
   seo: {
-    siteName: 'Nuxt UI Pro - Docs template'
+    siteName: 'WhatsBox.io Documentation'
   },
   header: {
-    title: '',
+    title: 'WhatsBox Docs',
     to: '/',
     logo: {
-      alt: '',
-      light: '',
-      dark: ''
+      alt: 'WhatsBox',
+      light: '/wb-icon-color-bg-transparent-256.png',
+      dark: '/wb-icon-color-bg-transparent-256.png'
     },
     search: true,
     colorMode: true,
-    links: [{
-      'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/nuxt-ui-pro/docs/tree/v3',
-      'target': '_blank',
-      'aria-label': 'GitHub'
-    }]
+    links: [null]
   },
   footer: {
     credits: `Copyright © ${new Date().getFullYear()}`,
     colorMode: false,
     links: [{
-      'icon': 'i-simple-icons-nuxtdotjs',
-      'to': 'https://nuxt.com',
-      'target': '_blank',
-      'aria-label': 'Nuxt Website'
+      label: 'WhatsBox.io',
+      to: 'https://www.whatsbox.io',
+      target: '_blank'
     }, {
-      'icon': 'i-simple-icons-discord',
-      'to': 'https://discord.com/invite/ps2h6QT',
-      'target': '_blank',
-      'aria-label': 'Nuxt UI on Discord'
-    }, {
-      'icon': 'i-simple-icons-x',
-      'to': 'https://x.com/nuxt_js',
-      'target': '_blank',
-      'aria-label': 'Nuxt on X'
-    }, {
-      'icon': 'i-simple-icons-github',
-      'to': 'https://github.com/nuxt/ui',
-      'target': '_blank',
-      'aria-label': 'Nuxt UI on GitHub'
+      label: 'WebApp',
+      to: 'https://app.whatsbox.io',
+      target: '_blank'
     }]
   },
   toc: {
