@@ -32,7 +32,7 @@ export default defineAppConfig({
     links: [null]
   },
   footer: {
-    credits: `Copyright © ${new Date().getFullYear()}`,
+    credits: `Copyright © ${new Date().getFullYear()}, All rights reserved. A Tracious product.`,
     colorMode: false,
     links: [{
       label: 'WhatsBox.io',
