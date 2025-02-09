@@ -16,10 +16,10 @@ orientation: horizontal
   :::
 
 #title
-Build your docs with Nuxt UI Pro
+WhatsBox Documentation
 
 #description
-Nuxt UI Pro is a collection of premium components built on top of Nuxt UI to create beautiful & responsive applications in minutes.
+WhatsBox enable flowless communication on WhatsApp.
 
 #links
   :::u-button
@@ -144,21 +144,8 @@ All-in-one documentation template
 ::u-page-section
   :::u-page-c-t-a
   ---
-  links:
-    - label: Buy now
-      to: https://ui.nuxt.com/pro/purchase
-      target: _blank
-      icon: i-lucide-shopping-cart
-      color: neutral
-    - label: License
-      to: https://ui3.nuxt.dev/getting-started/license
-      trailingIcon: i-lucide-circle-help
-      target: _blank
-      color: neutral
-      variant: subtle
-  description: Nuxt UI Pro is free in development, but you need a license to use
-    it in production.
-  title: Start with Nuxt UI Pro today!
+  :links: '[{"label":"Use WhatsBox","to":"https://app.whatsbox.io"]'
+  title: Start with WhatsBox today!
   variant: subtle
   ---
   :::
