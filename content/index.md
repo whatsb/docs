@@ -2,7 +2,7 @@
 seo:
   title: ""
   description: ""
-title: WhatsBox Documentation
+title: Sales & Marketing on WhatsApp
 description: Engage and convert customers using personalized broadcasts, 1:1
   conversations, automations, and shared team inbox.
 ---
