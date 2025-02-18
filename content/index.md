@@ -15,7 +15,7 @@ orientation: horizontal
 WhatsBox Documentation
 
 #description
-WhatsBox enables flowless communication on WhatsApp.
+WhatsBox enables flowless communication on WhatsApp using the WhatsApp Business API.
 
 #links
   :::u-button
@@ -44,98 +44,85 @@ Powered by Official WhatsApp Business API
 
 ::u-page-section
 #title
-All-in-one documentation template
-
-#links
-  :::u-button
-  ---
-  color: neutral
-  size: lg
-  target: _blank
-  to: https://ui3.nuxt.dev/getting-started/installation/pro/nuxt
-  trailingIcon: i-lucide-arrow-right
-  variant: subtle
-  ---
-  Discover Nuxt UI Pro v3
-  :::
+All-in-one tool for WhatsApp Business API
 
 #features
   :::u-page-feature
   ---
-  icon: i-simple-icons-nuxt
+  icon: i-ph-megaphone-duotone
   target: _blank
-  to: https://nuxt.com
+  to: https://app.whatsbox.io
   ---
   #title
-  Nuxt 3
+  Broadcasts
   
   #description
-  Powered by Nuxt 3 for optimal performances and SEO.
+  Send personalized broadcasts to masses using WhatsApp templates.
   :::
 
   :::u-page-feature
   ---
-  icon: i-simple-icons-markdown
+  icon: i-ph-tray-duotone
   target: _blank
-  to: https://content.nuxt.com
+  to: https://app.whatsbox.io
   ---
   #title
-  Markdown
+  1:1 Conversations
   
   #description
-  Write your pages with MDC thanks to Nuxt Content.
+  Send and receive individual messages using the inbox.
   :::
 
   :::u-page-feature
   ---
-  icon: i-lucide-sparkles
+  icon: i-ph-address-book-duotone
   target: _blank
-  to: https://ui3.nuxt.dev
+  to: https://app.whatsbox.io
   ---
   #title
-  Nuxt UI v3
+  Contact Lists
   
   #description
-  Offers a very large set of full customizable components.
+  Store your contacts with ability to add custom attributes.
   :::
 
   :::u-page-feature
   ---
-  icon: i-simple-icons-typescript
+  icon: i-ph-users-three-duotone
   target: _blank
-  to: https://www.typescriptlang.org
+  to: https://app.whatsbox.io
   ---
   #title
-  TypeScript
+  Team Inbox
   
   #description
-  A fully typed development experience.
+  Use an inbox shared by multiple team members.
   :::
 
   :::u-page-feature
   ---
-  icon: i-simple-icons-nuxtdotjs
+  icon: i-ph-robot-duotone
   target: _blank
-  to: https://content.nuxt.com/docs/studio
+  to: https://app.whatsbox.io
   ---
   #title
-  Nuxt Studio
+  Automations
   
   #description
-  Supported by Nuxt Studio for fast updates and previews.
+  Automate your communication workflow using thousands of app integration.
   :::
 
   :::u-page-feature
   ---
-  icon: i-lucide-search
+  icon: i-ph-code-duotone
   target: _blank
-  to: https://ui3.nuxt.dev/components/content-search
+  to: https://api.whatsbox.io/docs
   ---
   #title
-  Search
+  API
   
   #description
-  A full-text search modal powered by Fuse.js.
+  Build your own custom integration using our APIs.
   :::
 ::
 
