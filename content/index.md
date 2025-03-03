@@ -24,7 +24,7 @@ WhatsBox enables flowless communication on WhatsApp using the WhatsApp Business 
   to: /getting-started
   trailing-icon: i-lucide-arrow-right
   ---
-  Get started
+  View Documentation
   :::
 
   :::u-button
